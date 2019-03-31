@@ -1,4 +1,2 @@
-import React, {Component} from 'react';
-// import App from './CRUD';
-import App from './experiment/CustomTag';
+import App from "./main";
 export default App;
